@@ -1,0 +1,139 @@
+* {
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    height: 20px;
+    padding: 7px 3px 4px 10px;
+    background: rgba(252,205,77,1);
+    font-size: 12px;
+}
+
+first-container {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header {
+    width: 960px;
+    height: 120px;
+    display: inline-block;
+    background: rgba(237,237,237,1);
+}
+
+#logo img {
+    height: 70px;
+    padding: 0 0 0 25px;
+    display: inline-block; 
+    width: 10;
+     height: 60;
+}
+
+#logo h1 {
+    display: inline-block;
+    font-size: 16px;
+    margin: 22px 0px 16px 300px;
+}
+
+#nav_bar {
+    height: 60px;
+    background: rgba(254,254,254,1);
+}
+
+#nav_bar a {
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 12px;
+    color: #585860;
+    padding: 8px 20px 9px 20px;
+    border-left: 1px solid grey;
+    border-right: 1px solid rgb(207, 207, 207);
+}
+
+#nav_bar ul {
+    padding: 8px 10px 0px 35px;
+    border-top: 1px solid grey;
+}
+
+#nav_bar li {
+    display: inline;
+}
+
+#main_content {
+    width: 870px;
+    height: auto;
+    padding: 18px 33px 19px 35px;
+    display: inline-block;
+}
+
+#upper_main {
+    width: 910px;
+    height: 300px;
+}
+
+#photo {
+    width: 355px;
+    height: 235px;
+    padding: 5px;
+    background-color: white;
+    display: inline-block;
+}
+
+#about {
+    width: 520px;
+    height: 251px;
+    margin: 0px 0px 0px 16px;
+    background-color: darkgrey;
+    display: inline-block;
+}
+
+#about h3 {
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}
+
+#about p {
+    color: white;
+    font-size: 14px;
+    padding: 11px;
+}
+
+#small_logo * {
+    display: inline-block;
+    margin: 14px 0 0 0;
+    color: #FFD119;
+}
+
+#lower_main p {
+    font-size: 12px;
+    height: 60px;
+    width: 192px;
+    padding: 10px 10px 10px 10px;
+}
+
+#lower_main {
+    width: 910px;
+    height: auto;
+    display: inline-block;
+}
+
+.align {
+    margin: 0 17px 0 0;
+}
+
+#lower_main div {
+    width: 210px;
+    height: 250px;
+    display: inline-block;
+    background: rgba(255,255,255,1);
+}
+
+img.read_more {
+    height: 25px;
+    width: 89px;
+    padding: 0 0 0 106px;
+    display: inline-block;
+}
